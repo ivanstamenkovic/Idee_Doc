@@ -1,0 +1,49 @@
+Članovi tima:
+Ivan Stamenković, Stefan Živić, Jovan Milojkoivić
+♣
+
+________________________________________________________________________________________________________________________________________
+
+
+Domen:
+Naša ideja je da napravimo interaktivnu bazu znanja. Pojmovi će biti predstavljeni kao čvorovi u grafu, dok će veze između pojmova biti predstavljene kao veze između čvorova. Korisnici će moći da dodaju nove pojmove u bazu znanja, menjaju i brišu postojeće. Za neke od navedenih akcija, korisnicima će biti potrebne dodatne privilegije, koje stiču vremenom, koristeći sistem na "pravi način". Sistem se može koristiti kao i interaktivni rečnik koji ima sposobnost evolucije tokom vremena kako korisnici budu dodavali nove pojmove i veze. Svaki od korisnika će moći da upotpuni i podeli svoje znanje sa ostalima. Sistem će takođe pružati interfejs za projekte iz veštačke inteligencije, kojima je potrebna baza znanja.
+
+________________________________________________________________________________________________________________________________________
+
+
+Tehnologije:
+
+* Unity
+  - koristiće se za pravljenje GUI-a. Izabran je zato što omogućava cross platform development tj. omogućava da se servis koristi sa mobilnih uređaja (IOS, Android), desktop računara, kao i preko WEB-a.
+
+* NodeJS
+  - je framework za JS koji će biti korišćen za izradu server tj.backend strane našeg projekta.
+
+* Express
+  - je framework za NodeJS
+
+* Bilo koj JetBrains-ov IDE
+  - *
+
+* MongoDB || Neo4J
+  - baza podataka koja će biti korišćena
+
+* Mongoose
+  - mapper za MongoDB ( ukoliko se koristi )
+
+* Socket I/O
+  - je paket za komunikaciju između klijenta i servera
+
+______________________________________________________________________________________________________________________________________
+
+Uloge:
+  Članovi tima će gledati da ravnopravno učestvuju u proizvodnji svakog dela sistema.
+  
+______________________________________________________________________________________________________________________________________
+
+
+NAPOMENA:
+  Sve napisano je podložno promeni, i ako ih bude, ovaj dokument će biti ažuriran blagovremeno
+
+______________________________________________________________________________________________________________________________________
+
