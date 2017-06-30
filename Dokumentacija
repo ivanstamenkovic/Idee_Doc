@@ -1,5 +1,5 @@
 Članovi tima:
-Ivan Stamenković, Stefan Živić, Jovan Milojkoivić
+Ivan Stamenković, Stefan Živić
 ♣
 
 ________________________________________________________________________________________________________________________________________
@@ -25,8 +25,8 @@ Tehnologije:
 * Bilo koj JetBrains-ov IDE
   - *
 
-* MongoDB || Neo4J
-  - baza podataka koja će biti korišćena
+* MongoDB && Neo4J && Redis
+  - baze podataka koja će biti korišćene
 
 * Mongoose
   - mapper za MongoDB ( ukoliko se koristi )
